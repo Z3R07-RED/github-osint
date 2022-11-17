@@ -16,14 +16,14 @@ Github-Osint: Es una herramienta osint para encontrar información de los usuari
    Github: https://github.com/xxxxxxx
    Repositorio: 25
    Tipo: User
-   Correo Público: xxxxxxx@gmail.com
+   Correo Público: xxxxxxx@gmxxx.com
    Seguidores: 50
    Siguiendo: 4
    Creado: 2010-11-28T12:54:53Z
    Actualizado: 2022-8-30T09:17:20Z
-   Correo: xxxxxxx@gmail.com
-   Correo: xxxxxxx@gmail.com
-   Correo: xxxxxxx@hotmail.com
+   Correo: xxxxxxx@gmxxx.com
+   Correo: xxxxxxx@gmxxx.com
+   Correo: xxxxxxx@hotxxxx.com
    biografía: Programador en xxxxxxx......
 ```
 
