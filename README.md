@@ -42,7 +42,7 @@ MODULO DE PYTHON3: `requests` instalar con ( `pip3 install requests` )
 DESCARGAR e INSTALAR:
 ======
 
-Descargar el `github-osint_1.0.0_all.deb` : DESCARGAR
+Descargar el `github-osint_1.0.0_all.deb` : <a href="https://github.com/Z3R07-RED/github-osint/releases/tag/v1.0.0">DESCARGAR</a>
 
 ```
   dpkg -i github-osint_1.0.0_all.deb
